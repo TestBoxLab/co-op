@@ -1,8 +1,10 @@
 # CodeBox
 
-You’ve just created a brand new company, CodeBox! Way to go! You’ve decided that while you work on the beefy parts of your new web application, you will set up a landing page to collect information from visitors. You then hope to use this information to better inform your decision-making as you move forward in building your company.
+You’ve just created a brand new company, CodeBox! Way to go! You’ve decided that while you work on the beefy parts of your new web application, you will set up a landing page to collect information from visitors. You then hope to use this information to better inform your decision-making as you move forward in building your company. Your task is to build this landing page, using whatever languages and frameworks you are most comfortable with. 
 
-Your task is to build this landing page, using whatever languages and frameworks you are most comfortable with. We encourage you to time box this project to **1 hour or less**, and submit whatever you have at the end. We’ve broken it up into two parts for you. You may choose to bounce around between the two if you’d like, or simply complete it one section at a time.
+Please limit the time you spend on this exercise to **1 - 2 hours**, and submit your progress at the end. We do not expect your submission to be 100% completed. 
+
+We have broken the problem into two parts. You may choose to bounce around between the two if you’d like, or simply work on one section at a time.
 
 Before you get started, you may be wondering what information do we want to collect from the users on our landing page?
 
