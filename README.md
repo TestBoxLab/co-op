@@ -37,4 +37,4 @@ Once you have an API to send data to, you’ll want to turn your attention to a 
 
 We are excited to see what you develop! Please send us your code as a Github repo or as a ZIP file to interview@testbox.com a day before your interview. We will look at it together in your upcoming technical interview. Thank you for your time, and we’re looking forward to speaking with you!
 
-[1] https://www.typeform.com/
+[1]: https://www.typeform.com/
